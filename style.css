@@ -59,7 +59,7 @@ a:hover {
     transition: .5s ease;
 }
 .tab-group li a:hover{
-    background: #17b77;
+    background: #17b771;
     color: #ffffff;
 }
 
@@ -120,7 +120,7 @@ input, textarea{
 
 input:focus, textarea:focus {
     outline: 0;
-    border-color: #1ab166:
+    border-color: #1ab166;
 }
 
 textarea {
