@@ -174,3 +174,14 @@ button:hover, .button:focus {
     align-content: center;
     padding: 10px;
 }
+.input-group{
+    position: relative;
+
+  }
+  .input-group::after{
+    content: '*';
+    position: absolute;
+    top: 3px;
+    left: 5px;
+    color: #f00
+  }
